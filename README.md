@@ -234,16 +234,6 @@ To avoid charges, clean up in this order:
 
 ---
 
-## 📚 Further Reading
-
-- [EC2 User Data documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html)
-- [Instance Metadata Service (IMDSv2)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/configuring-instance-metadata-service.html)
-- [VPC with public subnet](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html)
-- [Internet Gateways](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html)
-- [EC2 Free Tier details](https://aws.amazon.com/ec2/pricing/on-demand/)
-
----
-
 ## 🪪 License
 
 MIT — fork freely, learn loudly.
